@@ -1,0 +1,6 @@
+# Project exclude paths
+/amqp/target/
+/api-gateway/target/
+/customer/target/
+/eureka-server/target/
+/fraud/target/
